@@ -54,7 +54,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/umair-w-s
 </p>
 
 <audio controls>
-  <source src="api.soundcloud.com/tracks/811545412" type="audio/mpeg">
+  <source src="https://api.soundcloud.com/tracks/811545412" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
