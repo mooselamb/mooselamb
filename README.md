@@ -1,16 +1,58 @@
-### Hi there 👋
+<!-- Title -->
+# Hello, Universe! 🌌
 
-<!--
-**mooselamb/mooselamb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Introduction -->
+I'm a frontend-focused fullstack software engineer hailing from the vibrant city of Los Angeles. Formerly a medical student, I followed my true passion for technology into the world of coding. 🏥 ➡️ 💻
 
-Here are some ideas to get you started:
+<!-- Technologies -->
+## 💻 Technologies & Skills
+- JavaScript (ES6+)
+- Node.js
+- TypeScript
+- AWS 🌐
+- Next.js
+- Express.js
+- jQuery
+- HTML5
+- CSS3
+- SASS/SCSS
+- LESS
+- Tailwind CSS
+- React.js
+- Bootstrap
+- Svelte
+- WordPress
+- Webpack
+- Git/GitHub
+- SQL Databases 📊
+- MongoDB 🍃
+- PHP
+- OAuth
+- GraphQL 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Interests -->
+## 🎮 Hobbies & Interests
+- I'm a huge nerd who loves video games and board games. 🎮🎲
+- I'm a musical enthusiast, and you can often find me at music concerts or enjoying the latest musicals. 🎵🎭
+- When it comes to tech, I can talk for hours about anything and everything related to it! 💬💻
+
+<!-- Diversity and Inclusion -->
+## 🌈 Embracing Diversity
+As a proud member of the LGBTQ+ community and a person of South Asian descent from Pakistan, I believe in the power of diversity in the tech world. 🏳️‍🌈🌍 Let's celebrate our differences and create an inclusive tech community for all!
+
+<!-- Achievements -->
+## 🏆 Achievements
+- Former college speech and debate champion with several state and national-level awards. 🏅🎙️
+
+<!-- Contact -->
+## 📫 Get in Touch
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/](https://www.linkedin.com/in/umair-w-shafiq/)) or [My Website](https://umair-portfolio-two.vercel.app/). You can also reach me via email at [your.email@example.com](mailto:umairshafiqprof@gmail.com). Let's chat about tech, games, or anything that piques your interest! 📧🌐
+
+<!-- Visuals -->
+<p align="center">
+  <img src="your-profile-picture.png" alt="Profile Picture" width="150" height="150">
+</p>
+
+<!-- Footer -->
+<hr>
+<p align="center">Designed with 💖 by Umair Shafiq</p>
