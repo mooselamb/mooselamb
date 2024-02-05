@@ -53,7 +53,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/umair-w-s
   <img src="assets/MooseLamb.png" alt="Mascot Picture" width="300" height="400">
 </p>
 
-<audio controls aligh="center">
+<audio controls align="center">
   <source src="https://soundcloud.com/stevenuniverse-music/love-like-you-feat-rebecca?si=71aa5605f4a64a028fa001f2ee36acb3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
