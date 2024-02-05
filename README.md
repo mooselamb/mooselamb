@@ -50,7 +50,7 @@ Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/](https:
 
 <!-- Visuals -->
 <p align="center">
-  <img src="assets/MooseLamb.png" alt="Mascot Picture" width="150" height="150">
+  <img src="assets/MooseLamb.png" alt="Mascot Picture" width="150" height="200">
 </p>
 
 <!-- Footer -->
