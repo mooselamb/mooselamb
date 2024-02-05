@@ -54,7 +54,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/umair-w-s
 </p>
 
 <audio controls>
-  <source src="https://soundcloud.com/stevenuniverse-music/love-like-you-feat-rebecca?si=2e5e72fd60e9468899b4eb2b47e21ca8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" type="audio/mpeg">
+  <source src="api.soundcloud.com/tracks/811545412&color=%2300b6ff&auto_play=true&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=true&visual=true">
   Your browser does not support the audio element.
 </audio>
 
