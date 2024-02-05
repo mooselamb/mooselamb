@@ -53,8 +53,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/umair-w-s
   <img src="assets/MooseLamb.png" alt="Mascot Picture" width="300" height="400">
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1165550226&cover_image=true&theme=natemoo-re&show_offline=false&background_color=2c2b2b&interchange=true&bar_color=c4eac3&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-  
 
 <!-- Footer -->
 <hr>
