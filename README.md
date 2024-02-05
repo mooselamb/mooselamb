@@ -54,7 +54,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/umair-w-s
 </p>
 
 <audio controls>
-  <source src="https://open.spotify.com/embed/track/3z9OnsnvM6SFN2dzrSDdVO?utm_source=generator" type="audio/mpeg">
+  <source src="[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1165550226&cover_image=true&theme=natemoo-re&show_offline=false&background_color=2c2b2b&interchange=true&bar_color=c4eac3&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>
 
