@@ -53,6 +53,10 @@ Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/](https:
   <img src="assets/MooseLamb.png" alt="Mascot Picture" width="300" height="400">
 </p>
 
+<audio controls aligh="center">
+  <source src="https://your-audio-hosting-link.com/your-audio-file.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 <!-- Footer -->
 <hr>
 <p align="center">Designed with 💖 by Umair Shafiq</p>
