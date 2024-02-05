@@ -46,7 +46,7 @@ As a proud member of the LGBTQ+ community and a person of South Asian descent fr
 
 <!-- Contact -->
 ## 📫 Get in Touch
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/](https://www.linkedin.com/in/umair-w-shafiq/) or [My Website](https://umair-portfolio-two.vercel.app/). You can also reach me via email at [mailto:umairshafiqprof@gmail.com]. Let's chat about tech, games, or anything that piques your interest! 📧🌐
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/umair-w-shafiq/) or [My Website](https://umair-portfolio-two.vercel.app/). You can also reach me via email at [mailto:umairshafiqprof@gmail.com]. Let's chat about tech, games, or anything that piques your interest! 📧🌐
 
 <!-- Visuals -->
 <p align="center">
